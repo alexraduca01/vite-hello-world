@@ -1,7 +1,7 @@
 <template>
   <header>
     <div>
-      <img src="../../public/img/dawg.png" alt="dawg">
+      <img :src="path" alt="dawg">
     </div>
     <h2>Jumbotron</h2>
   </header>
@@ -12,7 +12,7 @@
     name: 'AppHero',
     data(){
       return {
-        
+        path: '../../public/img/dawg.png',
       }
     }  
   }
