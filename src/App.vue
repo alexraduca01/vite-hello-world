@@ -22,11 +22,6 @@ export default {
 </script>
 
 <style lang="css" scoped>
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 .main-container {
   color: dodgerblue;
   position: absolute;
