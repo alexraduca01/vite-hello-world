@@ -1,5 +1,5 @@
 <template>
-  
+  <img src="" alt="dawg">
 </template>
 
 <script>

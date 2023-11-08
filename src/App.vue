@@ -1,11 +1,13 @@
 <template>
-  
+  <AppTitle/>
 </template>
 
 <script>
-  import "components/Header.vue";
   export default {
-    
+    components: { 
+      AppTitle,
+      AppHero,
+    },
   }
 </script>
 
