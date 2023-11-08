@@ -3,7 +3,7 @@
     <div>
       <img :src="path" alt="dawg">
     </div>
-    <h2>Jumbotron</h2>
+    <h2>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate, suscipit nihil. Eaque assumenda debitis illum non, ipsa modi! Animi, voluptates.</h2>
   </header>
 </template>
 

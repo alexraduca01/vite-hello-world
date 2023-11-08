@@ -24,9 +24,5 @@ export default {
 <style lang="css" scoped>
 .main-container {
   color: dodgerblue;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 </style>
