@@ -12,7 +12,7 @@
     name: 'AppHero',
     data(){
       return {
-        path: '../../public/img/dawg.png',
+        path: '/img/dawg.png',
       }
     }  
   }
